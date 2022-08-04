@@ -1,7 +1,7 @@
 ### <img src=https://img.icons8.com/ios/250/FFFFFF/chat.png height="15" width="15" align=center>"Hello World!"<img src=https://img.icons8.com/ios/250/FFFFFF/chat.png height="15" width="15">
 
-<img src="https://img.icons8.com/ios/250/FFFFFF/book.png" height="15" width="15"> looking to work with programming.
-<img src="https://img.icons8.com/ios/250/FFFFFF/grapes.png" height="15" width="15"> study front-end and back-end.</div>
+<img src="https://img.icons8.com/ios/250/FFFFFF/book.png" height="15" width="15"> procurando trabalhar com programação.
+<img src="https://img.icons8.com/ios/250/FFFFFF/grapes.png" height="15" width="15"> estudando front-end e back-end.</div>
 <img src=https://img.icons8.com/ios/250/FFFFFF/mailbox-closed-flag-up.png height="15" width="15"> felipedeoliveiraflorencio@hotmail.com
 
   <div style="display: inline_block" align="left"><br>
