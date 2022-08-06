@@ -14,11 +14,11 @@
 
 <div align="center">
 
-  <li align="left">
+  <div align="left">
      <a href="https://github.com/FelipeFlorencio9">
       <img height="165m" align="left" src="https://github-readme-stats.vercel.app/api?username=FelipeFlorencio9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
- <li align="right">
+ <div align="right">
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFlorencio9&layout=compact&theme=dark">
  </div>
 
