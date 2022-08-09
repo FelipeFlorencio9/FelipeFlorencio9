@@ -14,7 +14,7 @@
   
   </div>
 
-<div style="display: inline_block" align="center">
+<div style="display: flex" align="center">
 
   <div align="left">
      <a href="https://github.com/FelipeFlorencio9">
