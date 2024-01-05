@@ -9,7 +9,7 @@
   
 #### 🌱 Habilidades
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=FelipeFlorencio9&show_icons=true&title_color=65A68E&text_color=735D58&icon_color=735D58&bg_color=D9D9D9&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=FelipeFlorencio9&show_icons=true&title_color=65A68E&text_color=735D58&icon_color=735D58&bg_color=D9D9D9&cache_seconds=2300&layout=compact" alt="ilustração do status do github">
 
 - Kotlin
 - Jetpack Compose
